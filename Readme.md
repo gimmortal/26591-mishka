@@ -1,7 +1,7 @@
 # Личный проект «Мишка» [![Build status][travis-image]][travis-url] [![Dependency status][dependency-image]][dependency-url]
 
 * Студент: [Ильдус Галлямов](https://up.htmlacademy.ru/adaptive/8/user/26591).
-* Наставник: `Неизвестно`.
+* Наставник: `Сам себе наставник`.
 
 ---
 
